@@ -166,7 +166,7 @@
 				"0"		"NightLizard"
 				"1"		"NightLizard (Birthday)"
 			}
-			"avatar"		"a4e07669e7f5c114910142f7a7902311d860c2b9"
+			"avatar"		"dffcd948633f8b90a24a5a1eb624bb473a57545a"
 		}
 		"111072402"
 		{
@@ -573,19 +573,19 @@
 		}
 		"1161840500"
 		{
-			"name"		"Хроническая Мастурбация"
+			"name"		"20:31"
 			"NameHistory"
 			{
-				"0"		"Хроническая Мастурбация"
-				"1"		"смирился"
-				"2"		"Девочка с севера"
-				"3"		"Дима Д Дедукция"
-				"4"		"Приветики-пистолетики"
-				"5"		"Приветики-пистол"
-				"6"		"профитроля"
-				"7"		"Какой же он ебучи"
-				"8"		"Какой же он ебучий"
-				"9"		"Ебучий"
+				"0"		"20:31"
+				"1"		"Хроническая Мастурбация"
+				"2"		"смирился"
+				"3"		"Девочка с севера"
+				"4"		"Дима Д Дедукция"
+				"5"		"Приветики-пистолетики"
+				"6"		"Приветики-пистол"
+				"7"		"профитроля"
+				"8"		"Какой же он ебучи"
+				"9"		"Какой же он ебучий"
 			}
 			"avatar"		"74268895a1d71c1d65de8a27cdc3a53ab788e57e"
 		}
@@ -943,10 +943,10 @@
 	}
 	"Offline"
 	{
-		"Ticket"		"089e83c68a0115b125cd65"
-		"Signature"		"69cd360a50a75770d6f4eb95c6f477998980425c9e770daebe31787e22f11743a1d1111f0f2c84c9582fd7bb851946e84892ae821ca4c7eaee3077388ee17980d26c6745d2f2de50d25bdf4391af02830418ebfeb610f11a614da1f97b9d6ae937bd951cd29ec596300ad3d2207fe5816082d5b81c274cad79f505cb5e8ce413262675e4b1bf37b2748db9b28777f2422c3cc9e8b73fe480ae0c86b3f863f79a354b627ba75b2c3a560a65a0534090add61b15ad999fda546b750145f59ff8ef2d82ffc34702f3525251cc942645dd23dd2e29528fbaf439526bed56bce9f46202bf12fe0f74406eb2510ebcb35d5bd6dc429b0e8823bf319366a3ed21fbc39e"
-		"EncryptedTicket"		"0a203664f8ada84ee36af9d62449d676771fe39722f25a162e6fe5ed13897d37533f12800269cd360a50a75770d6f4eb95c6f477998980425c9e770daebe31787e22f11743a1d1111f0f2c84c9582fd7bb851946e84892ae821ca4c7eaee3077388ee17980d26c6745d2f2de50d25bdf4391af02830418ebfeb610f11a614da1f97b9d6ae937bd951cd29ec596300ad3d2207fe5816082d5b81c274cad79f505cb5e8ce413262675e4b1bf37b2748db9b28777f2422c3cc9e8b73fe480ae0c86b3f863f79a354b627ba75b2c3a560a65a0534090add61b15ad999fda546b750145f59ff8ef2d82ffc34702f3525251cc942645dd23dd2e29528fbaf439526bed56bce9f46202bf12fe0f74406eb2510ebcb35d5bd6dc429b0e8823bf319366a3ed21fbc39e180622084543207de03eac9228043208d500fe4b5ffc57ce"
-		"EncryptedSignature"		"69cd360a50a75770d6f4eb95c6f477998980425c9e770daebe31787e22f11743a1d1111f0f2c84c9582fd7bb851946e84892ae821ca4c7eaee3077388ee17980d26c6745d2f2de50d25bdf4391af02830418ebfeb610f11a614da1f97b9d6ae937bd951cd29ec596300ad3d2207fe5816082d5b81c274cad79f505cb5e8ce413262675e4b1bf37b2748db9b28777f2422c3cc9e8b73fe480ae0c86b3f863f79a354b627ba75b2c3a560a65a0534090add61b15ad999fda546b750145f59ff8ef2d82ffc34702f3525251cc942645dd23dd2e29528fbaf439526bed56bce9f46202bf12fe0f74406eb2510ebcb35d5bd6dc429b0e8823bf319366a3ed21fbc39e"
+		"Ticket"		"089e83c68a0115c786d365"
+		"Signature"		"6a9150aac25971691ecf1ed00accb6f454acfb340fcf5f6b624dab77641947c4d08182b1e88bda3fd7fe3ee2445f3184b8aed0a49eedc0bc0df184c3e5a82826a6d5ce62b87ca5e16bbf72bc0e06aaa964aa5be85f96b79347edbfd6daa511b992b410ebd326df5dbb15770a9002244330d4da9e7b254fae53669973b731b027bc577fdf24f0c788b04be35b8b1e529b1edb59482cb3ed21139b32a255b3da07729b6ac9cb78b7b5f7b0faf4ad147a1ba962a98983d021f635687183e17a9c012dd7d47ce75f856b584dd5f664a7ab11ad53d812c1f954ae024e1cdef93b0e021c607591aa2a6f2dd24ce95bdafe55ea299061b1f183cb0a34d2ace47b103fff"
+		"EncryptedTicket"		"0a20b2695cb7159583831faff9e2ab9b1d5431ba7beddcf0c535ce5702665f3c1cbe1280026a9150aac25971691ecf1ed00accb6f454acfb340fcf5f6b624dab77641947c4d08182b1e88bda3fd7fe3ee2445f3184b8aed0a49eedc0bc0df184c3e5a82826a6d5ce62b87ca5e16bbf72bc0e06aaa964aa5be85f96b79347edbfd6daa511b992b410ebd326df5dbb15770a9002244330d4da9e7b254fae53669973b731b027bc577fdf24f0c788b04be35b8b1e529b1edb59482cb3ed21139b32a255b3da07729b6ac9cb78b7b5f7b0faf4ad147a1ba962a98983d021f635687183e17a9c012dd7d47ce75f856b584dd5f664a7ab11ad53d812c1f954ae024e1cdef93b0e021c607591aa2a6f2dd24ce95bdafe55ea299061b1f183cb0a34d2ace47b103fff180622084543207de03eac9228043208bb65809e7a62d519"
+		"EncryptedSignature"		"6a9150aac25971691ecf1ed00accb6f454acfb340fcf5f6b624dab77641947c4d08182b1e88bda3fd7fe3ee2445f3184b8aed0a49eedc0bc0df184c3e5a82826a6d5ce62b87ca5e16bbf72bc0e06aaa964aa5be85f96b79347edbfd6daa511b992b410ebd326df5dbb15770a9002244330d4da9e7b254fae53669973b731b027bc577fdf24f0c788b04be35b8b1e529b1edb59482cb3ed21139b32a255b3da07729b6ac9cb78b7b5f7b0faf4ad147a1ba962a98983d021f635687183e17a9c012dd7d47ce75f856b584dd5f664a7ab11ad53d812c1f954ae024e1cdef93b0e021c607591aa2a6f2dd24ce95bdafe55ea299061b1f183cb0a34d2ace47b103fff"
 	}
 	"ParentalSettings"
 	{
@@ -955,7 +955,7 @@
 	}
 	"apptickets"
 	{
-		"7"		"32000000040000009e8151110100100107000000ea7e2ab981f4501a00000000b7dfcc65378fe8650100000000000000000008ac33b5656e85f0bf811e0f3b498c7225e6bf0d9474b4d5903a11e3a9b7d4abbbcc95fd80849bdcf88c24bf2dc98037eb7b9b7ee36c072669f7afa73327711620a36f21ef995e12c40c317696fcdc383dc2cdd4d7ddb8fac313d478f3f4c0b4ab404b5602b247ca13fed789584d64a180701df7d85223d077037c88b9122619"
+		"7"		"32000000040000009e81511101001001070000000e9f15b981f4501a00000000c786d3654736ef6501000000000000000000a5683b5f043ec2940b52272328bc52136b32c89e696de54236ab9a139ee6daa10c79cf032bb7e1748abe2fee38cda7d344d0fd933c1ea9c54f60d07e76728ac5083acd7922b9ed9e5e60749f89ec3375d78c0b5e9d7ca384fede3db22210dbfc37692486046360dbc2c0418a32a1c9621cb19001900e58e81ecfd8ea07934391"
 		"550"		"38000000040000009e81511101001001260200008a7c2ab981f4501a000000009380c7651330e3650100b109000001008c6603000000000027e37d33812e72b6f589b6770b42b96bbe50a77e86097d5793f2e48c4f17c9025ed912df284d8c934ea3be7322b53dea084d3c7e6b2b731f91c45b1988a22083d208ec3929b9f140c2b82b0b02a8cf65edd50627eb264cb5b28266b59411e03b9b3730d5f0cefe66645fafaa4dd088e067e75230ca85337afebfc3027882a246"
 		"730"		"44000000040000009e81511101001001da0200002b9e15b981f4501a00000000754dc665f5fce16501001aa104000300b4880900000028c92200000029c92200000000004be2e2548244525d0243c394bfa7c53c8f756c181a914928e7467a306654e1a600593c7282989abbee7c3b845535258743ed35898d5c3a8a8dd732bd3dace3a67c6e0e7656be0114dfd5ccf2b4bfed9edf8e1f8835e3bec7db5063c840a4d7104d4d28eb6e864cfc8c77c86ce64333c2c8d527d2f5f08c1dd1b182fd855f4c30"
 		"4000"		"32000000040000009e81511101001001a00f00008a7c2ab981f4501a000000009380c7651330e3650100da00000000000000d9fb70a1bb8f24753fe4085fb5b835149f986864dc793e8d4821248beba5f69bce5f17c64bb26d109e371e064a2054015c37952a1b08102bdc03ef0d5ccaac455346e290899e79ce6b5ffb1950032288611abaf6a56c0b55fd19d3422c5e0cc80b832307c2e102a48ab557ea0f0b3022af0dd1112157991f240638fe2ed78e6f"
@@ -1203,7 +1203,7 @@
 		"1369630"		"32000000040000009e815111010010011ee61400f17f2ab981f4501a00000000f48ac865743ae46501008354070000000000519457017d6189087117b0a16217b91694d5597d79ace4d159886dd98049f31713e972d895cdfc96713d51f72ed16b1c09661e641157cee3f1636be18df532cbef5bb77fa343d2adae64c230a95de520acb9fb27db785e4ffd44ceb44fa1bc1f3f19ea7eb6a76c05cfd6892963c2cd855c050a425317dd3c8318c2b7a1bde705"
 		"1325200"		"32000000040000009e81511101001001903814002b9e15b981f4501a00000000774dc665f7fce16501000fcf0700000000001be8b41f3233c9f501e6026682fd9b54b25e9da7281cb24bfa6e8ff18757ec3f4aa3385a2b2c40151bdb0327c484297c6be60b6355fc7612d5e8c102824ff79d3614957f2e1e69ddb03f17d921d19912951fed027570d203d8abf3dfd8d873c261150e57f6f79e1a77a2de6502651c421869acd873c5ae46d4e88089c7757352"
 		"372360"		"32000000040000009e8151110100100188ae0500ef9e15b981f4501a000000007f38ca65ffe7e56501008f6c010000000000013cba7947e0db2835ffeac3af981580ce545c7f55b5f553997c06722eec88a9fa5d668586151e2cdf490db389e05f894df5e42006a294ccb18bb7b60ce0d21c4c9db995e28007b7647608de830ef5fc2584329ad0f42e110bf82cf87ea20ed04f82134b826720b5cfec6eb1dc9b9555c7f326f602490580e77e04030f2635d5"
-		"790060"		"32000000040000009e815111010010012c0e0c00187d2ab981f4501a0000000050b9c465d068e06501007ca50300000000002bdb998f5304897c651f1418e49982e3f1ef08a6e16791f4faaa2ae312af8e133a3e2c40d17fbc337efe7fbc5cc9506b826cf6b1b2599da7279e177aa33806bc8f62300fb3a778cec348160175967cf7a322d060d6daf72955893b60e8260e06cda915539af19ac362ec53c71d5ae9083960f1a65c3fd5bc504291cd6d040fd0"
+		"790060"		"32000000040000009e815111010010012c0e0c000e9f15b981f4501a000000003077d365b026ef6501007ca503000000000059a75a67a2e4d6042173844bd38bdde064ef2272d39208cc089b58fa718b6f05417e200304251d61186691a55aa083e080d59f592403c049bd630eb14654aa35349ccb527941b32a4f4fbd029f4d33e72095c621d7a82efe9597066eed8e592fa32466ea13b5ffc7fa7685f5e2ee4533bd7b2dc271507e1f7788c28b22e37d64"
 		"1293830"		"64010000040000009e8151110100100106be13002b9e15b981f4501a00000000774dc665f7fce1650100fa2908003300c70416000000c80416000000c90416000000ca0416000000cb0416000000cc0416000000cd0416000000ce0416000000cf0416000000d00416000000d10416000000d20416000000d30416000000d40416000000d50416000000e00416000000e10416000000e20416000000e30416000000e40416000000e50416000000e60416000000e70416000000e80416000000e90416000000ea0416000000eb0416000000ec0416000000ed0416000000ee0416000000ef0416000000f00416000000f10416000000f20416000000f30416000000f40416000000f50416000000f60416000000f70416000000f80416000000f90416000000fa04160000000905160000000a05160000000b05160000000c05160000001105160000001205160000001305160000001405160000001505160000000000383df1688850be70c1e999dc1490d440ba8dd27679eaab4bf42e45868c7a5b4ed5bf64ebd19a1629c4c887682b37f58944266158070f227d251499abccb382f29b4d32f1064659cb60c86d6b7c4bc4e99fa0fa4877d143de59b282057674de9da34fefaf82702f02a52c51a0372b928fb5e4fdd7c0c188d853e39f71c7fa71af"
 		"1443082"		"32000000040000009e815111010010010a0516008a7c2ab981f4501a00000000a380c7652330e3650100e3be07000000000025edb12a39e8533f29ac9e8f68ac9dd9082011bee11471dcefb95ee6af799d8de1f8ff0feaafffb7f6602c96aa0ff5e6c2d595a5a0e9dd5fa4ab31edd2ad0ae47f3a99f621f296ec8ce4273dd2113f0c3b8565772164e86ef1c288a91d0fdca3ff00df1d1aa071006fad2a9684d398c88ac19f1b18ee1f194ae5bd6b29bd120f"
 		"1443015"		"32000000040000009e81511101001001c70416008a7c2ab981f4501a00000000a380c7652330e3650100fa2908000000000072bea8bfefeb92f6f45c6ae46cc3d63823465a710cd27502ee9280bb789999eb58915b62e4f91e31da7161e38042e32d8f9af9eab313db7500546053da69d7e31963bc6786a9b2b9285fa392ee4f48e80ce9c10cb4c0fd241d0b63931942fa410aaa1fb36520e6217be94bd0d0666b26261dba411ee44b1b6f1dcb3f2f7b02bf"
@@ -1263,9 +1263,11 @@
 		"851100"		"32000000040000009e815111010010019cfc0c002b9e15b981f4501a00000000774dc665f7fce1650100da12040000000000601074971d8e87264b9f62c9cf608fe3e1ebfce757660505757c540f3c626a28654a95098d8d6bc207c869ea5a1397ef13ba7b5b20c53e1b2faba462fec25558c90e221d40b87c0988658472e1ef35f09d973d6dbb6e84abf960bf6755ecc65de5c31b1585c825edd48f8fc164c89a10a116122edc4333932ac5a35dd2642f21"
 		"230070"		"32000000040000009e81511101001001b6820300f17f2ab981f4501a00000000f48ac865743ae4650100e9850000000000007baa0c2720f0727b8781387307502352e398fb7a074bd53a1714a7c5439cb33d0777f1ea2a9c9d61945286701da817b3b5e82bd3d921193415a754d57324cada80ba070f99fe4f7b7107a4f4915fde4b2b9b30e40236fbb7ddc480d5a8d1f36ec1eace06a004a852691164b8ade86b2d3710e7bfe09fb3b64bee8b1cb9b76138"
 		"1245620"		"32000000040000009e81511101001001b4011300f17f2ab981f4501a00000000f48ac865743ae465010058b806000000000027df687fbc93b08a039e34b5928c51c2e5e3e392e18f52a888317d23ca2fd2f508ac70355144abd4c206e3eadc023fac77cf2902b6b4c7aee59046f8f40133af54cf71357e41dda661f3eb823990fa26871b8da3a5d3170a1335ba624e1751114eff4fd51b30b88d29797699d41c6fb066bc847177499005a2011a4124d5fb1d"
-		"211820"		"38000000040000009e815111010010016c3b0300cf7d2ab981f4501a000000001a93bf659a42db6501004189000001004625080000000000d462dc6bd406f479fefacc7ee78907050861d65900030a5ce7d67843b42571c8df3ae18c0124fb3eea3381163be6b50fb2448ad8dc3b3bf12a8eb636180512480ebaa9d9f248c3dd2d49ab16002d46d7898afc43a0f9bc4867f076c5907411a191809c492829a84867fe3f6f21a933e31dd7714924057b8adb48f486c59f298d"
+		"211820"		"38000000040000009e815111010010016c3b0300747e2ab981f4501a000000001612ce6596c1e96501004189000001004625080000000000061675521b7ae8158f22e8051b3cd03454796eaba5f04b35c82f8664ba1e1f210b93fdb4654fa5872bd72b07bf0f9cc16777ea320196e1fd412895816e59185d0e50c0de0fca529ffbf9d9fdcf52807c839ae056a9ef2a7ceb0a522cd81c5af9fec626ba8685bf0de605d9776c3e73c196ceef8fbfe20de6ad778b0404a67ddc"
+		"568220"		"32000000040000009e815111010010019cab0800747e2ab981f4501a00000000f75cce65770cea6501008431020000000000aaebf308907e665fe544038271572ac74d6c6e46969d83e17232273691bc0f6728e0274d5a3f919c3ae05690e0bccde4353cbee9698cfaebdc38bf72ea46b0858f168325eeed1533ffe4466031f839888e0f447fb24eb42c4db209a12322e1e73c2da02aac971fa4bb29d9b171878f9b94c7d870db9c6a32c518a76e49803425"
+		"383180"		"32000000040000009e81511101001001ccd80500e57d2ab981f4501a000000002c81d065ac30ec65010033170f00000000004659f06843605ecbda0ddf734ceec0e7753932d9dae1210fa9c1fe4f5862b45a2010f7811e4d8419c716a269738967f18c1092a70308b3f39cc8fa1ec1d07b55b5effd90da3ac26f2d45758793d532acae4a553c1e60dc4c37621ec2fa192f54883603058b65b31a1bd90534f2331993f5d6474680c840f7a0bc45377b11a24b"
 	}
-	"AppInfoChangeNumber"		"22347756"
+	"AppInfoChangeNumber"		"22411837"
 	"Software"
 	{
 		"valve"
@@ -1781,9 +1783,9 @@
 					}
 					"381210"
 					{
-						"LastPlayed"		"1707853729"
-						"Playtime2wks"		"721"
-						"Playtime"		"40177"
+						"LastPlayed"		"1708282792"
+						"Playtime2wks"		"878"
+						"Playtime"		"40481"
 						"cloud"
 						{
 							"last_sync_state"		"synchronized"
@@ -1791,8 +1793,8 @@
 						"381210_eula_0"		"4"
 						"autocloud"
 						{
-							"lastlaunch"		"1707845723"
-							"lastexit"		"1707853727"
+							"lastlaunch"		"1708278440"
+							"lastexit"		"1708282791"
 						}
 						"BadgeData"		"0a00000008371206080110011800"
 					}
@@ -1907,8 +1909,8 @@
 					}
 					"489830"
 					{
-						"LastPlayed"		"1707929858"
-						"Playtime"		"15006"
+						"LastPlayed"		"1708261583"
+						"Playtime"		"15007"
 						"cloud"
 						{
 							"last_sync_state"		"synchronized"
@@ -1916,9 +1918,9 @@
 						"BadgeData"		"020000000837"
 						"autocloud"
 						{
-							"lastexit"		"1707929858"
+							"lastexit"		"1708261582"
 						}
-						"Playtime2wks"		"1"
+						"Playtime2wks"		"2"
 						"489830_eula_0"		"0"
 					}
 					"504230"
@@ -2272,7 +2274,7 @@
 							"lastexit"		"1707409380"
 						}
 						"BadgeData"		"020000000837"
-						"Playtime2wks"		"1776"
+						"Playtime2wks"		"356"
 					}
 					"1252330"
 					{
@@ -2308,19 +2310,19 @@
 					}
 					"1293830"
 					{
-						"LastPlayed"		"1707845366"
-						"Playtime"		"6669"
+						"LastPlayed"		"1708106738"
+						"Playtime"		"6848"
 						"cloud"
 						{
 							"last_sync_state"		"synchronized"
 						}
 						"autocloud"
 						{
-							"lastlaunch"		"1707841863"
-							"lastexit"		"1707845363"
+							"lastlaunch"		"1708102779"
+							"lastexit"		"1708106737"
 						}
 						"BadgeData"		"020000000837"
-						"Playtime2wks"		"191"
+						"Playtime2wks"		"370"
 					}
 					"1782210"
 					{
@@ -2374,8 +2376,8 @@
 						{
 							"quota_bytes"		"20000000000"
 							"quota_files"		"50000"
-							"used_bytes"		"247569632"
-							"used_files"		"1570"
+							"used_bytes"		"249071933"
+							"used_files"		"1580"
 						}
 					}
 					"2371090"
@@ -2532,10 +2534,10 @@
 					}
 					"644540"
 					{
-						"LastPlayed"		"1707502883"
+						"LastPlayed"		"1708275097"
 						"BadgeData"		"020000000837"
-						"Playtime2wks"		"452"
-						"Playtime"		"7452"
+						"Playtime2wks"		"534"
+						"Playtime"		"7633"
 					}
 					"552500"
 					{
@@ -2629,19 +2631,19 @@
 					}
 					"976620"
 					{
-						"LastPlayed"		"1707944048"
+						"LastPlayed"		"1708268608"
 						"cloud"
 						{
-							"last_sync_state"		"changeslocally"
+							"last_sync_state"		"synchronized"
 						}
 						"autocloud"
 						{
-							"lastlaunch"		"1707929829"
-							"lastexit"		"1707944048"
+							"lastlaunch"		"1708261559"
+							"lastexit"		"1708268608"
 						}
 						"BadgeData"		"020000000837"
-						"Playtime2wks"		"671"
-						"Playtime"		"1716"
+						"Playtime2wks"		"1004"
+						"Playtime"		"2049"
 					}
 					"851100"
 					{
@@ -2683,12 +2685,48 @@
 						}
 						"autocloud"
 						{
-							"lastlaunch"		"1707929830"
-							"lastexit"		"1707929858"
+							"lastlaunch"		"1708361436"
+							"lastexit"		"1708366508"
+						}
+					}
+					"568220"
+					{
+						"LastPlayed"		"1708161309"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+						"autocloud"
+						{
+							"lastlaunch"		"1708155981"
+							"lastexit"		"1708161308"
+						}
+						"BadgeData"		"020000000837"
+						"Playtime2wks"		"241"
+						"Playtime"		"241"
+					}
+					"383180"
+					{
+						"383180_eula_0"		"0"
+						"LastPlayed"		"1708366505"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+						"BadgeData"		"020000000837"
+						"Playtime2wks"		"388"
+						"Playtime"		"388"
+					}
+					"383150"
+					{
+						"autocloud"
+						{
+							"lastlaunch"		"1708361436"
+							"lastexit"		"1708366505"
 						}
 					}
 				}
-				"LastPlayedTimesSyncTime"		"1707943343"
+				"LastPlayedTimesSyncTime"		"1708282792"
 				"SmallMode"		"0"
 				"PlayerLevel"		"55"
 				"ShaderCacheManager"
@@ -2704,7 +2742,7 @@
 	}
 	"WebStorage"
 	{
-		"UIStoreLocalSteamUIState"		"{\"nVersion\":1,\"eGameListView\":1,\"bGroupedByCollection\":true,\"bSortedByRecent\":false,\"mapCollapsedState\":[[\"hidden\",true]],\"currentSelection\":{\"strCollectionId\":\"uncategorized\",\"nAppId\":644540},\"bGroupBySharedLibraries\":false,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":{}},\"collectionFilterGamepad\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2,8192],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":{}}}"
+		"UIStoreLocalSteamUIState"		"{\"nVersion\":1,\"eGameListView\":1,\"bGroupedByCollection\":true,\"bSortedByRecent\":false,\"mapCollapsedState\":[[\"hidden\",true]],\"currentSelection\":{\"strCollectionId\":\"uncategorized\",\"nAppId\":383180},\"bGroupBySharedLibraries\":false,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":{}},\"collectionFilterGamepad\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2,8192],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":{}}}"
 		"keyboard_haptic_preset"		"2"
 		"keyboard_haptic_custom"		"{\"eHapticType\":2,\"unIntensity\":4,\"ndBGain\":-5}"
 		"keyboard_trackpad_typing_scale"		"1"
@@ -2715,7 +2753,7 @@
 		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[]},\"provide_deck_feedback\":0}"
 		"CachedCommunityPreferences"		"{\"bParenthesizeNicknames\":false,\"eTextFilterSetting\":3,\"bTextFilterIgnoreFriends\":true,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[]}}"
 		"SteamVoiceSettings_290554270"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true}"
-		"trendingstore_storage"		"{\"version\":2,\"data\":[{\"appid\":1238000,\"rgAccountIDs\":[377781403],\"totalFriends\":1},{\"appid\":2161700,\"rgAccountIDs\":[224338257],\"totalFriends\":1},{\"appid\":1938090,\"rgAccountIDs\":[107691972],\"totalFriends\":1},{\"appid\":1449560,\"rgAccountIDs\":[462577991],\"totalFriends\":1},{\"appid\":933480,\"rgAccountIDs\":[189987196],\"totalFriends\":1},{\"appid\":990080,\"rgAccountIDs\":[206973859],\"totalFriends\":1},{\"appid\":381210,\"rgAccountIDs\":[1104770657,925230276,128992747,906982679,789397241],\"totalFriends\":5},{\"appid\":570,\"rgAccountIDs\":[289612202,928824477,375048789,887503292,925230276,399366287,455093982,384359189],\"totalFriends\":14},{\"appid\":1190000,\"rgAccountIDs\":[878507885],\"totalFriends\":1},{\"appid\":362890,\"rgAccountIDs\":[280637154],\"totalFriends\":1},{\"appid\":236390,\"rgAccountIDs\":[1199775680,1513297422],\"totalFriends\":2},{\"appid\":578080,\"rgAccountIDs\":[962168624,925230276,462577991],\"totalFriends\":3},{\"appid\":287390,\"rgAccountIDs\":[462577991],\"totalFriends\":1},{\"appid\":629520,\"rgAccountIDs\":[925230276,189987196,384359189,1080272253],\"totalFriends\":4},{\"appid\":1961950,\"rgAccountIDs\":[280637154],\"totalFriends\":1},{\"appid\":730,\"rgAccountIDs\":[1243514779,462577991,289612202,107691972,1080272253,1071461287,170360747,1513297422],\"totalFriends\":10},{\"appid\":367520,\"rgAccountIDs\":[1243514779],\"totalFriends\":1},{\"appid\":1035510,\"rgAccountIDs\":[1513297422],\"totalFriends\":1},{\"appid\":394360,\"rgAccountIDs\":[130977876],\"totalFriends\":1},{\"appid\":49520,\"rgAccountIDs\":[189987196],\"totalFriends\":1},{\"appid\":365670,\"rgAccountIDs\":[399366287],\"totalFriends\":1},{\"appid\":552520,\"rgAccountIDs\":[381318043],\"totalFriends\":1},{\"appid\":620,\"rgAccountIDs\":[962168624],\"totalFriends\":1},{\"appid\":438100,\"rgAccountIDs\":[206973859],\"totalFriends\":1},{\"appid\":1966720,\"rgAccountIDs\":[908785037,962168624,849747714,462577991],\"totalFriends\":4},{\"appid\":516750,\"rgAccountIDs\":[335195824],\"totalFriends\":1},{\"appid\":102600,\"rgAccountIDs\":[189987196],\"totalFriends\":1},{\"appid\":386180,\"rgAccountIDs\":[377781403],\"totalFriends\":1},{\"appid\":22330,\"rgAccountIDs\":[189987196],\"totalFriends\":1},{\"appid\":323850,\"rgAccountIDs\":[908785037],\"totalFriends\":1},{\"appid\":602960,\"rgAccountIDs\":[962168624,191931611],\"totalFriends\":2},{\"appid\":35140,\"rgAccountIDs\":[191931611],\"totalFriends\":1},{\"appid\":674940,\"rgAccountIDs\":[962168624],\"totalFriends\":1},{\"appid\":433340,\"rgAccountIDs\":[1243514779],\"totalFriends\":1},{\"appid\":40990,\"rgAccountIDs\":[923117195],\"totalFriends\":1},{\"appid\":232090,\"rgAccountIDs\":[923117195],\"totalFriends\":1},{\"appid\":790740,\"rgAccountIDs\":[335195824],\"totalFriends\":1},{\"appid\":311340,\"rgAccountIDs\":[1243514779],\"totalFriends\":1},{\"appid\":1086940,\"rgAccountIDs\":[92145361,384359189,377781403,923117195,915282683,878507885],\"totalFriends\":6},{\"appid\":646570,\"rgAccountIDs\":[289612202],\"totalFriends\":1},{\"appid\":1284410,\"rgAccountIDs\":[849747714,280637154],\"totalFriends\":2},{\"appid\":105600,\"rgAccountIDs\":[370517280,128992747],\"totalFriends\":2},{\"appid\":285160,\"rgAccountIDs\":[191931611],\"totalFriends\":1},{\"appid\":2695350,\"rgAccountIDs\":[224338257],\"totalFriends\":1},{\"appid\":2310,\"rgAccountIDs\":[107691972],\"totalFriends\":1},{\"appid\":1174180,\"rgAccountIDs\":[206973859],\"totalFriends\":1},{\"appid\":374320,\"rgAccountIDs\":[206973859],\"totalFriends\":1},{\"appid\":1361210,\"rgAccountIDs\":[377781403],\"totalFriends\":1},{\"appid\":221810,\"rgAccountIDs\":[878507885],\"totalFriends\":1},{\"appid\":2300,\"rgAccountIDs\":[107691972],\"totalFriends\":1}],\"lastFetchTimeMS\":1707935279544}"
+		"trendingstore_storage"		"{\"version\":2,\"data\":[{\"appid\":1238000,\"rgAccountIDs\":[377781403],\"totalFriends\":1},{\"appid\":933480,\"rgAccountIDs\":[189987196],\"totalFriends\":1},{\"appid\":2161700,\"rgAccountIDs\":[224338257],\"totalFriends\":1},{\"appid\":1190000,\"rgAccountIDs\":[878507885],\"totalFriends\":1},{\"appid\":578080,\"rgAccountIDs\":[962168624,925230276,462577991],\"totalFriends\":3},{\"appid\":1113560,\"rgAccountIDs\":[107691972],\"totalFriends\":1},{\"appid\":1129580,\"rgAccountIDs\":[878507885],\"totalFriends\":1},{\"appid\":383180,\"rgAccountIDs\":[189987196,1080272253,399366287],\"totalFriends\":3},{\"appid\":516750,\"rgAccountIDs\":[335195824],\"totalFriends\":1},{\"appid\":292030,\"rgAccountIDs\":[462577991],\"totalFriends\":1},{\"appid\":50300,\"rgAccountIDs\":[107691972],\"totalFriends\":1},{\"appid\":393380,\"rgAccountIDs\":[962168624],\"totalFriends\":1},{\"appid\":367520,\"rgAccountIDs\":[1243514779],\"totalFriends\":1},{\"appid\":1035510,\"rgAccountIDs\":[1513297422],\"totalFriends\":1},{\"appid\":1973530,\"rgAccountIDs\":[128992747],\"totalFriends\":1},{\"appid\":4000,\"rgAccountIDs\":[128992747],\"totalFriends\":1},{\"appid\":1086940,\"rgAccountIDs\":[92145361,384359189,377781403,923117195,915282683,878507885],\"totalFriends\":6},{\"appid\":236390,\"rgAccountIDs\":[1199775680,1513297422],\"totalFriends\":2},{\"appid\":322330,\"rgAccountIDs\":[908785037,335195824,480529588],\"totalFriends\":3},{\"appid\":305620,\"rgAccountIDs\":[107691972],\"totalFriends\":1},{\"appid\":790740,\"rgAccountIDs\":[335195824],\"totalFriends\":1},{\"appid\":480,\"rgAccountIDs\":[188562763,191931611],\"totalFriends\":2},{\"appid\":646570,\"rgAccountIDs\":[289612202],\"totalFriends\":1},{\"appid\":218620,\"rgAccountIDs\":[1513297422],\"totalFriends\":1},{\"appid\":1435790,\"rgAccountIDs\":[1243514779],\"totalFriends\":1},{\"appid\":464500,\"rgAccountIDs\":[107691972],\"totalFriends\":1},{\"appid\":381210,\"rgAccountIDs\":[1104770657,925230276,128992747,906982679],\"totalFriends\":4},{\"appid\":638230,\"rgAccountIDs\":[107691972],\"totalFriends\":1},{\"appid\":620,\"rgAccountIDs\":[962168624],\"totalFriends\":1},{\"appid\":1284410,\"rgAccountIDs\":[849747714,280637154],\"totalFriends\":2},{\"appid\":1624540,\"rgAccountIDs\":[335195824],\"totalFriends\":1},{\"appid\":1328350,\"rgAccountIDs\":[128992747],\"totalFriends\":1},{\"appid\":710470,\"rgAccountIDs\":[234474623],\"totalFriends\":1},{\"appid\":553850,\"rgAccountIDs\":[130977876],\"totalFriends\":1},{\"appid\":8930,\"rgAccountIDs\":[289612202],\"totalFriends\":1},{\"appid\":323850,\"rgAccountIDs\":[908785037],\"totalFriends\":1},{\"appid\":602960,\"rgAccountIDs\":[962168624],\"totalFriends\":1},{\"appid\":850320,\"rgAccountIDs\":[335195824],\"totalFriends\":1},{\"appid\":629520,\"rgAccountIDs\":[189987196,925230276,1080272253],\"totalFriends\":3},{\"appid\":325610,\"rgAccountIDs\":[789397241],\"totalFriends\":1},{\"appid\":1449560,\"rgAccountIDs\":[462577991],\"totalFriends\":1},{\"appid\":1172470,\"rgAccountIDs\":[923117195,1228466611,1513297422],\"totalFriends\":3},{\"appid\":674940,\"rgAccountIDs\":[962168624],\"totalFriends\":1},{\"appid\":281990,\"rgAccountIDs\":[381318043],\"totalFriends\":1},{\"appid\":251570,\"rgAccountIDs\":[1513297422],\"totalFriends\":1},{\"appid\":2695350,\"rgAccountIDs\":[224338257],\"totalFriends\":1},{\"appid\":2310,\"rgAccountIDs\":[107691972],\"totalFriends\":1},{\"appid\":1174180,\"rgAccountIDs\":[206973859],\"totalFriends\":1},{\"appid\":374320,\"rgAccountIDs\":[206973859],\"totalFriends\":1},{\"appid\":431960,\"rgAccountIDs\":[234474623,206973859,370517280,915282683,377781403],\"totalFriends\":5}],\"lastFetchTimeMS\":1708280885864}"
 		"CTextFilterStore_TextFilterPreferences"		"{\"eTextFilterSetting\":3,\"bIgnoreFriends\":true}"
 		"CTextFilterStore_TextFilterWords"		"{\"text_filter_custom_banned_words\":[],\"text_filter_custom_clean_words\":[]}"
 		"CTextFilterStore_strBannedPattern"		"\"\""
@@ -2813,6 +2851,8 @@
 		"OverlaySavedDataV2_1245620_pinned"		"{\"version\":1,\"data\":[[\"Achievements\",{\"bPinned\":false,\"opacity\":1,\"extraData\":\"global\"}]]}"
 		"OverlaySavedDataV2_1245620_webrequests"		"{\"version\":1,\"data\":{\"activeWebPageRequestID\":0,\"rgRequests\":[]}}"
 		"user-collections"		"{}"
+		"OverlaySavedDataV2_383180_windows"		"{\"version\":2,\"data\":[[\"GameOverview\",1],[\"FriendsList\",0],[\"Achievements\",1]]}"
+		"OverlaySavedDataV2_383180_pinned"		"{\"version\":1,\"data\":[[\"Achievements\",{\"bPinned\":false,\"opacity\":1,\"extraData\":\"inprogress\"}]]}"
 	}
 	"system"
 	{
@@ -3724,7 +3764,12 @@
 				"google2.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1697306190"
+					"Expires"		"1708014688"
+				}
+				"edgenext.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1708368225"
 				}
 			}
 		}
@@ -3745,7 +3790,12 @@
 				"google2.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1707936237"
+					"Expires"		"1708368225"
+				}
+				"edgenext.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1708368227"
 				}
 			}
 		}
@@ -3792,7 +3842,7 @@
 				"steampipe.akamaized.net"
 				{
 					"token"		""
-					"Expires"		"1696779802"
+					"Expires"		"1708040800"
 				}
 			}
 		}
@@ -3966,12 +4016,12 @@
 				"google2.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1707936233"
+					"Expires"		"1708368225"
 				}
 				"steampipe.akamaized.net"
 				{
 					"token"		""
-					"Expires"		"1697652847"
+					"Expires"		"1708014688"
 				}
 			}
 		}
@@ -3987,7 +4037,7 @@
 				"google2.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1707936238"
+					"Expires"		"1708368228"
 				}
 				"steampipe.akamaized.net"
 				{
@@ -3997,7 +4047,7 @@
 				"edgenext.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1707936275"
+					"Expires"		"1708368225"
 				}
 			}
 		}
@@ -4055,7 +4105,7 @@
 				"steampipe.akamaized.net"
 				{
 					"token"		""
-					"Expires"		"1707159051"
+					"Expires"		"1708014688"
 				}
 				"level3.cdn.steampipe.steamcontent.com"
 				{
@@ -4065,12 +4115,12 @@
 				"google2.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1707937073"
+					"Expires"		"1708368226"
 				}
 				"edgenext.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1705431184"
+					"Expires"		"1708368334"
 				}
 			}
 		}
@@ -4229,7 +4279,7 @@
 				"steampipe.akamaized.net"
 				{
 					"token"		""
-					"Expires"		"1706122477"
+					"Expires"		"1708124045"
 				}
 				"level3.cdn.steampipe.steamcontent.com"
 				{
@@ -4239,12 +4289,17 @@
 				"google2.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1705836267"
+					"Expires"		"1708176245"
 				}
 				"edgenext.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
 					"Expires"		"1703333730"
+				}
+				"alibaba.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1708176241"
 				}
 			}
 		}
@@ -4792,12 +4847,113 @@
 				}
 			}
 		}
+		"568221"
+		{
+			"CDN"
+			{
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1708033831"
+				}
+				"google2.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1708033835"
+				}
+			}
+		}
+		"383181"
+		{
+			"CDN"
+			{
+				"alibaba.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1708174173"
+				}
+				"google2.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1708174177"
+				}
+			}
+		}
+		"383183"
+		{
+			"CDN"
+			{
+				"google2.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1708174173"
+				}
+				"alibaba.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1708174180"
+				}
+			}
+		}
+		"383184"
+		{
+			"CDN"
+			{
+				"google2.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1708174488"
+				}
+				"alibaba.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1708174488"
+				}
+			}
+		}
+		"383186"
+		{
+			"CDN"
+			{
+				"alibaba.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1708174764"
+				}
+				"google2.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1708174764"
+				}
+			}
+		}
+		"383187"
+		{
+			"CDN"
+			{
+				"alibaba.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1708202516"
+				}
+				"google2.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1708202517"
+				}
+				"steampipe.akamaized.net"
+				{
+					"token"		""
+					"Expires"		"1708202529"
+				}
+			}
+		}
 	}
 	"LibraryDisplayIconInGameList"		"1"
 	"LibraryLowPerfMode"		"0"
 	"LibraryLowBandwidthMode"		"0"
 	"StartupState.Friends"		"0"
-	"RecentLocalPlayedGameIDs"		"ece60e00000000007028cd6529010000667907000000000000f1cc65000000001ad10500000000009fc7cb650000000006be130000000000f3a6cb6500000000bcd5090000000000236dc66500000000b401130000000000e3ffc46560c8f55c8a8f13000000000059f3c46560857706809c01000000000058f3c465000000005897060000000000874ec165301c3f066c3b030000000000c39ebf65a0384c0602f80a0000000000c3c2b465300000002c0e0c0000000000e887b16500000000b6820300000000006ba4a3650000000088ae050000000000fc189365000000009cfc0c0000000000beac786500000000346e08000000000022507865696e75657ae10800000000005b5d7465ffffffffd2e312000000000099786465809d4606100b1200000000005474646500000000a882110000000000a268646500000000"
+	"RecentLocalPlayedGameIDs"		"ccd8050000000000a99ad365f6e311001ad1050000000000a753d26500000000bcd50900000000009935d26500000000ece60e00000000003f1cd265290100006679070000000000ce00d265000000009cab0800000000001c79d0657900000006be130000000000f1a3cf6500000000b401130000000000e3ffc46560c8f55c8a8f13000000000059f3c46560857706809c01000000000058f3c465000000005897060000000000874ec165301c3f066c3b030000000000c39ebf65a0384c0602f80a0000000000c3c2b465300000002c0e0c0000000000e887b16500000000b6820300000000006ba4a3650000000088ae050000000000fc189365000000009cfc0c0000000000beac786500000000346e08000000000022507865696e75657ae10800000000005b5d7465ffffffffd2e312000000000099786465809d4606"
 	"UserAppConfig"
 	{
 		"257350"		"00696e7465726e616c00016c616e677561676500656e676c697368000808"
@@ -4833,6 +4989,8 @@
 		"230070"		"00696e7465726e616c00016c616e677561676500656e676c697368000808"
 		"1245620"		"0055736572436f6e66696700016c616e677561676500656e676c697368000808"
 		"211820"		"00696e7465726e616c00016c616e677561676500656e676c697368000808"
+		"568220"		"00696e7465726e616c00016c616e677561676500656e676c697368000808"
+		"383180"		"00696e7465726e616c00016c616e6775616765007275737369616e000808"
 	}
 	"nettickets"
 	{
