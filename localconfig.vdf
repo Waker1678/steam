@@ -119,7 +119,7 @@
 			{
 				"0"		"Dennis 4703"
 			}
-			"avatar"		"83db1c4b4033be9e80bb2f8be57697285acde174"
+			"avatar"		"d1c68323e48d80e5ba3d2eb75b0c79b1c7d9f00a"
 		}
 		"289612202"
 		{
@@ -241,7 +241,7 @@
 				"0"		"Hydroponic"
 				"1"		"Mister Lean"
 			}
-			"avatar"		"7bc36e94cfa95e338f9d8a972001304a8b6fc0bf"
+			"avatar"		"8442685651231b08503c282a75c5f324df2ae085"
 		}
 		"1080272253"
 		{
@@ -955,10 +955,10 @@
 	}
 	"Offline"
 	{
-		"Ticket"		"089e83c68a01154633f565"
-		"Signature"		"0ca552cd3f248c19185230edf14b39c578e190342b431a68c1420b875a1edf11009b19d004cf1c8af556519370a5cb2c2864e443148a58e97fdc19fd70b571e02fa456d27dd7b538bc4a6a3a399e2367bd691ffc104d481844014aa82e44be049191b0d44ed4c3cc1a3a6b62a2fc0454fbaf928d8e62a53a0bde045ec9e7c77b19324f06c8e301eecab9ccea5b0f1201f3829403e7a336f25d3aeaad5f18d748297072b02d46e8c4d99dcec78e6ff4718d65255fb1895a87ebbdcf26d2781f368f97bec4fdac80fadfb9c49328e3eeefe8a9b0bfd53586615a3bef94eaf235d25a3ff0fb7b515688bf3af20cfb7be2f09c70b5121abe4db2e738c1b1002a6858"
-		"EncryptedTicket"		"0a20b707df847fb37969d440afc39730f23f5df7d1fdad11815f25dfb8e02ea273611280020ca552cd3f248c19185230edf14b39c578e190342b431a68c1420b875a1edf11009b19d004cf1c8af556519370a5cb2c2864e443148a58e97fdc19fd70b571e02fa456d27dd7b538bc4a6a3a399e2367bd691ffc104d481844014aa82e44be049191b0d44ed4c3cc1a3a6b62a2fc0454fbaf928d8e62a53a0bde045ec9e7c77b19324f06c8e301eecab9ccea5b0f1201f3829403e7a336f25d3aeaad5f18d748297072b02d46e8c4d99dcec78e6ff4718d65255fb1895a87ebbdcf26d2781f368f97bec4fdac80fadfb9c49328e3eeefe8a9b0bfd53586615a3bef94eaf235d25a3ff0fb7b515688bf3af20cfb7be2f09c70b5121abe4db2e738c1b1002a6858180622084543207de03eac92280432082d49a28da9bf580f"
-		"EncryptedSignature"		"0ca552cd3f248c19185230edf14b39c578e190342b431a68c1420b875a1edf11009b19d004cf1c8af556519370a5cb2c2864e443148a58e97fdc19fd70b571e02fa456d27dd7b538bc4a6a3a399e2367bd691ffc104d481844014aa82e44be049191b0d44ed4c3cc1a3a6b62a2fc0454fbaf928d8e62a53a0bde045ec9e7c77b19324f06c8e301eecab9ccea5b0f1201f3829403e7a336f25d3aeaad5f18d748297072b02d46e8c4d99dcec78e6ff4718d65255fb1895a87ebbdcf26d2781f368f97bec4fdac80fadfb9c49328e3eeefe8a9b0bfd53586615a3bef94eaf235d25a3ff0fb7b515688bf3af20cfb7be2f09c70b5121abe4db2e738c1b1002a6858"
+		"Ticket"		"089e83c68a0115119cf665"
+		"Signature"		"577482f5543be4f247c2ee8bcfcd0acb33c5a4af57e7407ed3c883f6ba5ee02d314fad7ca325bae8e0d5a3d4ff8478b198e91895ccd379a063cae96114878571e30af0d686e7bf45d66f4cfbe1542f7b81fcacceed30e863fbf97f9cd0919d57d2b078cdbd6d0db2f2317de379e03b5d521d7c071a5554393f8401cf554acbfc20b7fb7615897e4b601ac391e4be1625bf4fcba28aa430144108828ec2ff2a7a736b5125a92f8765e658c79dce36a66717d71bd35c3512c029f2545b5cc151dc2af6075887fc199a66b6024fe27f6b7ce49100033c0c538d96e21bbfe21e5db36fada6479e4ba48e3f7d528797cfea4b2d96533ccffec47ce7711bbb1b7da45e"
+		"EncryptedTicket"		"0a205acef5922787096e63678b64a9399a08a7ca4e93b533561352b96f3d9b087767128002577482f5543be4f247c2ee8bcfcd0acb33c5a4af57e7407ed3c883f6ba5ee02d314fad7ca325bae8e0d5a3d4ff8478b198e91895ccd379a063cae96114878571e30af0d686e7bf45d66f4cfbe1542f7b81fcacceed30e863fbf97f9cd0919d57d2b078cdbd6d0db2f2317de379e03b5d521d7c071a5554393f8401cf554acbfc20b7fb7615897e4b601ac391e4be1625bf4fcba28aa430144108828ec2ff2a7a736b5125a92f8765e658c79dce36a66717d71bd35c3512c029f2545b5cc151dc2af6075887fc199a66b6024fe27f6b7ce49100033c0c538d96e21bbfe21e5db36fada6479e4ba48e3f7d528797cfea4b2d96533ccffec47ce7711bbb1b7da45e180622084543207de03eac9228043208e991041b8d430f70"
+		"EncryptedSignature"		"577482f5543be4f247c2ee8bcfcd0acb33c5a4af57e7407ed3c883f6ba5ee02d314fad7ca325bae8e0d5a3d4ff8478b198e91895ccd379a063cae96114878571e30af0d686e7bf45d66f4cfbe1542f7b81fcacceed30e863fbf97f9cd0919d57d2b078cdbd6d0db2f2317de379e03b5d521d7c071a5554393f8401cf554acbfc20b7fb7615897e4b601ac391e4be1625bf4fcba28aa430144108828ec2ff2a7a736b5125a92f8765e658c79dce36a66717d71bd35c3512c029f2545b5cc151dc2af6075887fc199a66b6024fe27f6b7ce49100033c0c538d96e21bbfe21e5db36fada6479e4ba48e3f7d528797cfea4b2d96533ccffec47ce7711bbb1b7da45e"
 	}
 	"ParentalSettings"
 	{
@@ -967,7 +967,7 @@
 	}
 	"apptickets"
 	{
-		"7"		"32000000040000009e81511101001001070000006b9e15b981f4501a000000004633f565c6e210660100000000000000000004d4fda8df64e8fcca1752e0f336122f09318b98a7d5579a7cf4849dc84c5940d3fc38cc14967b348ad5d2583ef503b2b454fb5a5c69f4c80507ee8a7595a7ed11026f5018dfc0c44e6969da841f19f8b69881766af05b46a7de3f2c1766d9e967029050200bd48a69854a0b2f1d96edba3d7ecd9ace6b314e586cf718e75174"
+		"7"		"32000000040000009e81511101001001070000006b9e15b981f4501a00000000119cf665914b1266010000000000000000008847468ba760775ab9dcee11849d2fb17fb62f2a6296190a4f7cb8c8eb4bef69eac6a57ba678cd3f3d2f2956d3f85a5258fb3a8cbf5c4244b0bc7333f4af9e8c97708ea7f033a658e2d326eb5f712cd9d1a2669b4c61bda5552275d676a63477a6e0ca88772dc9e0b80f20c2fbeb7de43aac096403cff1fb400c6beb30f687d8"
 		"550"		"38000000040000009e8151110100100126020000b17d2ab981f4501a000000001addf2659a8c0e660100b109000001008c66030000000000a5182d8ab6f3060fe486d0ff1740df506e90a1683031e0647d16b064e267eba63d2f0a13b8e800550bc1a255e4ec444b0d97366e303d92725a16a52fc9883cbc485753c6810d81dbb9ae5cf2f5aa6d06b079977883abda6c5ed1962b70193cc1ba6337800758bd143fa89c1e69764159fe25601cd391c32cb98a64691d38d90b"
 		"730"		"44000000040000009e81511101001001da020000459e15b981f4501a000000007cc3f165fc720d6601001aa104000300b4880900000028c92200000029c92200000000008cefd8ab2bff7131470ac3c63c404c56ab9f4aae897b6552b05a0336caee0d888769cd6bcf0aa955f15325316fee2beb665829ef8cab2a4324f292fd4afb462e1ed4549fa0b2c7fe539afaeac82688949904fe98e10bd7e10fb4777923c19ec9ff4fd41fed328f1e640ea7b75268776424e381414bbee5c4079acb2f1dd53f10"
 		"4000"		"32000000040000009e81511101001001a00f0000b17d2ab981f4501a000000001addf2659a8c0e660100da000000000000003e98f1ae0172e8d5dce68abc634bcf314f739a2a32f7d01a1bbe90fa35a798f1f9760f648149393faa8dce4c79d5e2901613b09d14718ca6344d9982f907324caad0cc210e603d29604cc893daf1edd04f972b839c601cd4aaf049f907e84a8b13b41498ee48d5c6f289fe0616017b6637f56c808d067a787465a97f08817af4"
@@ -1278,7 +1278,7 @@
 		"211820"		"38000000040000009e815111010010016c3b0300c97f2ab981f4501a0000000051c1ea65d170066601004189000001004625080000000000cad1d0e7d367436bc47e832a5ccd89052ec0cb786cd9683329cbf089cc43cfc212814e882afa7444fab070bc03429eb2222d3a3933ccb56939b91d08c0ae3a0a63a7ad1a67fa1986e0392e256b25d16e37dd33b17715ba48f4aa6eae625df037eefa21523cddf7dab7e22ef666969c6b6d770ea3c3ba0433e70fe0404447bf05"
 		"568220"		"32000000040000009e815111010010019cab0800c97f2ab981f4501a0000000051c1ea65d170066601008431020000000000a2743d5f0e3a8db1eec60f227370d58552e2d4ec0763c5dcf44a2fa9a55592dfafc46108b632c55fe7134f092eac707bc99fd1921eb622d9d9ecd97fa5c7f7b75ab100801e871b370d6006c7c26b58f34d808353df4ba80d819a755d4c92e3cd55b03e0025e8f0e547ccf5ac69b8a71ce759c9ce5501a309e1d5de01daed2845"
 		"383180"		"32000000040000009e81511101001001ccd805005e7f2ab981f4501a00000000fe32df657ee2fa65010033170f00000000007656d6a7e05c684d725379ba7de0191414b45ce46ac0e404fd8bc17fc4d46c84adf7f11049bef24d09c4a319394a1f643ba2bb3c878429cd10c8880fdd0953a59e422d9aadc62e4a463ca4248a57c14e94ccb1804c6598f2cd56d17e2b1fdf24e3aaa83ed0fcaf7d68731bf09de2c6d6e114e6ad75b19f3a107ab0bda9371a7e"
-		"374320"		"44000000040000009e8151110100100130b60500ff9e15b981f4501a000000006a8fe865ea3e04660100a00d010003009abe060000005abc070000005bbc070000000000afa01acc886c64f58e881784bdd4df08c54aa0d5564bd6f4a3ae3f8e405d28103f869173a1298bd5be62e1275e455981c0ee2ad564805ea1301e8215c46e8717f8b14e2f32f23ff4ece25b643cdb465157144c6d08438daec2e019a54f3792846dfb3a346558c76166d36faf764a8f9d452f85e0d8c128c11d45f56ae8320f0d"
+		"374320"		"44000000040000009e8151110100100130b605006b9e15b981f4501a00000000139cf665934b12660100a00d010003009abe060000005abc070000005bbc0700000000001c64ed3d906aea2286c6a879a61c406dcce460885b81fb6d84f75ecd45bf26dd0b18f267e968041c51b1057c17ec1e3e49b30857bfd3f075e35e8563f2961fbeb88dddf8f50472c55c6233b0820c1e2ee535de2ca0d2eee4636eca8136f45d9960b3755d964461b77965f7247a3fa70697b5b352c3c271ae82cd434b84c3c960"
 		"442010"		"32000000040000009e815111010010019abe06006b7f2ab981f4501a000000002fcae965af7905660100e06f010000000000967260557d223d9b7e6a069f691e1cfbfdd6c2f04587f63779f3be9d6df3c5ec698258b8d45fc9695d22c7bf2d2dfbe1738f34a0d63b7a18c507cfd92bcb7de511c4bb0ba6bb46d763a2c3426f7642ae36da98f5da65f60c17ffd40a13d56487dc91ac3d74d5134f1eb337e8c02619e7573f565c46d4e423a31a96d08fb98302"
 		"506970"		"32000000040000009e815111010010015abc07006b7f2ab981f4501a000000002fcae965af7905660100e06f01000000000099231406058e2bba92f882783e1c9f766dbf130489fd0020638011f4344180f9d9f153e4e51b0b970f98ab6e543904d5679943e3693f4e49cc9347c30925367aea6b9fb9065ecb240d4adf267e8cf7844552ce3d789626f0d6b2f1fab9cd527a71ecb28dafdca7dce230ae0762082b919403f5f420c66799b2095fd9658688a2"
 		"506971"		"32000000040000009e815111010010015bbc07006b7f2ab981f4501a000000002fcae965af7905660100e06f0100000000001cdcbbceea17a7489fb5fe3f1fe46c3b40bdcce2d036ae65577cadd5c3ea04ba660b690f548126731986f40610ee4e5a67705bf7cbd8b48669548cb6cd5a8ed70b957b2777bd9d676ec56cf3caf24eac0c541b27563189a1ba2e0e806ad75736d5144a26b19ccd5f5c5aa6f47667b4409b1eb8578f9167e28928847bb6d7e6cc"
@@ -1292,7 +1292,7 @@
 		"2661270"		"32000000040000009e81511101001001969b2800459e15b981f4501a000000007dc3f165fd720d660100018d0e00000000007db32dac287a2a9a9944a3da42f9d1915cae56b326b7c4a314877cbe0c49047e6f8222f183361ffdd1c16012770e693b1711c72be87fad8bd1229a6dd92b08e84ae3b4a6c352cc152f79d1a80096e4308e3be5b88d5bb47493b58c46035d60bd79b781bfb5500e168b73bcaebdd1337206a8e0ff7b791d064d75d61b0de58228"
 		"892970"		"38000000040000009e815111010010012aa00d006b9e15b981f4501a0000000024ddf565a48c1166010068590400010094ae0d00000000005cc7e3051b51db5ae5d8d7f49b6d77e7b3fd0b9e4e2748f4b3d00a7bdeb618e7c171099aa6d0c5cfbb252af6d9851be9e9c655a75b41480958e37701b426e9d3efafec1894dc2615781f2abc23c61af87da9c23c53245f61f9b3a38e27960328bae88bf1efdbedc3ba0d353069a99c6e162152213490bc79e9759864e95a3149"
 	}
-	"AppInfoChangeNumber"		"22794494"
+	"AppInfoChangeNumber"		"22800988"
 	"Software"
 	{
 		"valve"
@@ -1660,7 +1660,7 @@
 						"Playtime"		"14532"
 						"289070_eula_0"		"0"
 						"BadgeData"		"020000000837"
-						"Playtime2wks"		"310"
+						"Playtime2wks"		"149"
 					}
 					"289650"
 					{
@@ -1731,7 +1731,7 @@
 						"LastPlayed"		"1709473537"
 						"Playtime"		"29726"
 						"BadgeData"		"0a00000008371206080110011800"
-						"Playtime2wks"		"183"
+						"Playtime2wks"		"177"
 					}
 					"322330"
 					{
@@ -2181,7 +2181,7 @@
 					}
 					"892970"
 					{
-						"LastPlayed"		"1710611748"
+						"LastPlayed"		"1710611692"
 						"Playtime"		"3854"
 						"cloud"
 						{
@@ -2354,19 +2354,19 @@
 					}
 					"1293830"
 					{
-						"LastPlayed"		"1710605347"
-						"Playtime"		"8024"
+						"LastPlayed"		"1710705940"
+						"Playtime"		"8763"
 						"cloud"
 						{
 							"last_sync_state"		"synchronized"
 						}
 						"autocloud"
 						{
-							"lastlaunch"		"1710592043"
-							"lastexit"		"1710605346"
+							"lastlaunch"		"1710693969"
+							"lastexit"		"1710705939"
 						}
 						"BadgeData"		"020000000837"
-						"Playtime2wks"		"1014"
+						"Playtime2wks"		"1669"
 					}
 					"1782210"
 					{
@@ -2729,8 +2729,8 @@
 						}
 						"autocloud"
 						{
-							"lastlaunch"		"1710611673"
-							"lastexit"		"1710611692"
+							"lastlaunch"		"1710693970"
+							"lastexit"		"1710705941"
 						}
 					}
 					"568220"
@@ -2746,7 +2746,7 @@
 							"lastexit"		"1710573270"
 						}
 						"BadgeData"		"020000000837"
-						"Playtime2wks"		"1276"
+						"Playtime2wks"		"940"
 						"Playtime"		"2078"
 					}
 					"383180"
@@ -2787,7 +2787,7 @@
 						"Playtime"		"401"
 					}
 				}
-				"LastPlayedTimesSyncTime"		"1710536477"
+				"LastPlayedTimesSyncTime"		"1710627142"
 				"SmallMode"		"0"
 				"PlayerLevel"		"55"
 				"ShaderCacheManager"
@@ -2799,11 +2799,11 @@
 	}
 	"CloudManager"
 	{
-		"HintAppsToPreload"		"892970"
+		"HintAppsToPreload"		"241100"
 	}
 	"WebStorage"
 	{
-		"UIStoreLocalSteamUIState"		"{\"nVersion\":1,\"eGameListView\":1,\"bGroupedByCollection\":true,\"bSortedByRecent\":false,\"mapCollapsedState\":[[\"hidden\",true]],\"currentSelection\":{\"strCollectionId\":\"uncategorized\",\"nAppId\":892970},\"bGroupBySharedLibraries\":false,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":{}},\"collectionFilterGamepad\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2,8192],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":{}}}"
+		"UIStoreLocalSteamUIState"		"{\"nVersion\":1,\"eGameListView\":1,\"bGroupedByCollection\":true,\"bSortedByRecent\":false,\"mapCollapsedState\":[[\"hidden\",true]],\"currentSelection\":{\"strCollectionId\":\"uncategorized\",\"nAppId\":1293830},\"bGroupBySharedLibraries\":false,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":{}},\"collectionFilterGamepad\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1,2,8192],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}],\"setSuggestions\":{}}}"
 		"keyboard_haptic_preset"		"2"
 		"keyboard_haptic_custom"		"{\"eHapticType\":2,\"unIntensity\":4,\"ndBGain\":-5}"
 		"keyboard_trackpad_typing_scale"		"1"
@@ -2814,17 +2814,17 @@
 		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[]},\"provide_deck_feedback\":0}"
 		"CachedCommunityPreferences"		"{\"bParenthesizeNicknames\":false,\"eTextFilterSetting\":3,\"bTextFilterIgnoreFriends\":true,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[]}}"
 		"SteamVoiceSettings_290554270"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true}"
-		"trendingstore_storage"		"{\"version\":2,\"data\":[{\"appid\":20900,\"rgAccountIDs\":[370517280],\"totalFriends\":1},{\"appid\":1085660,\"rgAccountIDs\":[849747714],\"totalFriends\":1},{\"appid\":2050650,\"rgAccountIDs\":[377781403],\"totalFriends\":1},{\"appid\":544750,\"rgAccountIDs\":[377781403],\"totalFriends\":1},{\"appid\":814380,\"rgAccountIDs\":[1243514779],\"totalFriends\":1},{\"appid\":570,\"rgAccountIDs\":[887503292,455093982,375048789,928824477,289612202,925230276,1161840500,399366287],\"totalFriends\":14},{\"appid\":20920,\"rgAccountIDs\":[370517280],\"totalFriends\":1},{\"appid\":394360,\"rgAccountIDs\":[335195824,130977876],\"totalFriends\":2},{\"appid\":1113000,\"rgAccountIDs\":[107691972,224338257],\"totalFriends\":2},{\"appid\":1549970,\"rgAccountIDs\":[107691972],\"totalFriends\":1},{\"appid\":550,\"rgAccountIDs\":[1513297422],\"totalFriends\":1},{\"appid\":578080,\"rgAccountIDs\":[370517280,925230276,427887150,962168624],\"totalFriends\":4},{\"appid\":945360,\"rgAccountIDs\":[1513297422],\"totalFriends\":1},{\"appid\":38410,\"rgAccountIDs\":[107691972],\"totalFriends\":1},{\"appid\":1388590,\"rgAccountIDs\":[377781403],\"totalFriends\":1},{\"appid\":1973530,\"rgAccountIDs\":[128992747],\"totalFriends\":1},{\"appid\":976730,\"rgAccountIDs\":[377781403],\"totalFriends\":1},{\"appid\":244750,\"rgAccountIDs\":[188562763],\"totalFriends\":1},{\"appid\":346110,\"rgAccountIDs\":[878507885],\"totalFriends\":1},{\"appid\":1943950,\"rgAccountIDs\":[128992747,1228466611],\"totalFriends\":2},{\"appid\":1284410,\"rgAccountIDs\":[280637154,849747714],\"totalFriends\":2},{\"appid\":629520,\"rgAccountIDs\":[384359189,925230276,1161840500,1071461287],\"totalFriends\":4},{\"appid\":704270,\"rgAccountIDs\":[427887150],\"totalFriends\":1},{\"appid\":532210,\"rgAccountIDs\":[234474623],\"totalFriends\":1},{\"appid\":1003890,\"rgAccountIDs\":[335195824],\"totalFriends\":1},{\"appid\":49520,\"rgAccountIDs\":[189987196],\"totalFriends\":1},{\"appid\":386180,\"rgAccountIDs\":[377781403],\"totalFriends\":1},{\"appid\":548430,\"rgAccountIDs\":[903112361],\"totalFriends\":1},{\"appid\":438100,\"rgAccountIDs\":[206973859],\"totalFriends\":1},{\"appid\":431960,\"rgAccountIDs\":[887503292,370517280,234474623,206973859,224338257,128992747,384359189,427887150],\"totalFriends\":9},{\"appid\":1091500,\"rgAccountIDs\":[370517280],\"totalFriends\":1},{\"appid\":552520,\"rgAccountIDs\":[1228466611],\"totalFriends\":1},{\"appid\":107410,\"rgAccountIDs\":[335195824],\"totalFriends\":1},{\"appid\":261550,\"rgAccountIDs\":[962168624],\"totalFriends\":1},{\"appid\":1245620,\"rgAccountIDs\":[189987196],\"totalFriends\":1},{\"appid\":700330,\"rgAccountIDs\":[887503292],\"totalFriends\":1},{\"appid\":1551360,\"rgAccountIDs\":[130977876],\"totalFriends\":1},{\"appid\":1966720,\"rgAccountIDs\":[962168624,1071461287,1161840500,377781403,908785037],\"totalFriends\":5},{\"appid\":892970,\"rgAccountIDs\":[189987196,859213402],\"totalFriends\":2},{\"appid\":1556200,\"rgAccountIDs\":[370517280],\"totalFriends\":1},{\"appid\":246620,\"rgAccountIDs\":[384359189],\"totalFriends\":1},{\"appid\":239140,\"rgAccountIDs\":[189987196],\"totalFriends\":1},{\"appid\":739630,\"rgAccountIDs\":[377781403,1513297422],\"totalFriends\":2},{\"appid\":32440,\"rgAccountIDs\":[130977876],\"totalFriends\":1},{\"appid\":1158310,\"rgAccountIDs\":[289612202],\"totalFriends\":1},{\"appid\":22490,\"rgAccountIDs\":[189987196],\"totalFriends\":1},{\"appid\":1118200,\"rgAccountIDs\":[928824477],\"totalFriends\":1},{\"appid\":412020,\"rgAccountIDs\":[399366287],\"totalFriends\":1},{\"appid\":2357570,\"rgAccountIDs\":[224338257],\"totalFriends\":1},{\"appid\":2741560,\"rgAccountIDs\":[130977876],\"totalFriends\":1}],\"lastFetchTimeMS\":1710613740034}"
+		"trendingstore_storage"		"{\"version\":2,\"data\":[{\"appid\":570,\"rgAccountIDs\":[455093982,887503292,375048789,928824477,289612202,925230276,1161840500,399366287],\"totalFriends\":14},{\"appid\":20900,\"rgAccountIDs\":[370517280],\"totalFriends\":1},{\"appid\":1085660,\"rgAccountIDs\":[849747714],\"totalFriends\":1},{\"appid\":544750,\"rgAccountIDs\":[377781403],\"totalFriends\":1},{\"appid\":1549970,\"rgAccountIDs\":[107691972],\"totalFriends\":1},{\"appid\":20920,\"rgAccountIDs\":[370517280],\"totalFriends\":1},{\"appid\":2050650,\"rgAccountIDs\":[377781403],\"totalFriends\":1},{\"appid\":394360,\"rgAccountIDs\":[335195824,130977876],\"totalFriends\":2},{\"appid\":1388590,\"rgAccountIDs\":[377781403],\"totalFriends\":1},{\"appid\":1113000,\"rgAccountIDs\":[107691972,224338257],\"totalFriends\":2},{\"appid\":550,\"rgAccountIDs\":[1513297422],\"totalFriends\":1},{\"appid\":945360,\"rgAccountIDs\":[1513297422],\"totalFriends\":1},{\"appid\":1284410,\"rgAccountIDs\":[280637154,849747714],\"totalFriends\":2},{\"appid\":38410,\"rgAccountIDs\":[107691972],\"totalFriends\":1},{\"appid\":218,\"rgAccountIDs\":[878507885],\"totalFriends\":1},{\"appid\":1973530,\"rgAccountIDs\":[128992747],\"totalFriends\":1},{\"appid\":976730,\"rgAccountIDs\":[377781403],\"totalFriends\":1},{\"appid\":244750,\"rgAccountIDs\":[188562763],\"totalFriends\":1},{\"appid\":261550,\"rgAccountIDs\":[962168624],\"totalFriends\":1},{\"appid\":814380,\"rgAccountIDs\":[1243514779],\"totalFriends\":1},{\"appid\":105600,\"rgAccountIDs\":[189987196,1513297422,908785037,191931611,206973859],\"totalFriends\":5},{\"appid\":252490,\"rgAccountIDs\":[859213402],\"totalFriends\":1},{\"appid\":49520,\"rgAccountIDs\":[189987196],\"totalFriends\":1},{\"appid\":532210,\"rgAccountIDs\":[234474623],\"totalFriends\":1},{\"appid\":251570,\"rgAccountIDs\":[335195824],\"totalFriends\":1},{\"appid\":1003890,\"rgAccountIDs\":[335195824],\"totalFriends\":1},{\"appid\":1281930,\"rgAccountIDs\":[189987196,908785037,191931611],\"totalFriends\":3},{\"appid\":516750,\"rgAccountIDs\":[335195824],\"totalFriends\":1},{\"appid\":386180,\"rgAccountIDs\":[377781403],\"totalFriends\":1},{\"appid\":1336490,\"rgAccountIDs\":[280637154],\"totalFriends\":1},{\"appid\":431960,\"rgAccountIDs\":[887503292,128992747,234474623,206973859,224338257,384359189,427887150,1243514779],\"totalFriends\":8},{\"appid\":438100,\"rgAccountIDs\":[206973859],\"totalFriends\":1},{\"appid\":892970,\"rgAccountIDs\":[189987196,859213402,399366287],\"totalFriends\":3},{\"appid\":552520,\"rgAccountIDs\":[1228466611],\"totalFriends\":1},{\"appid\":107410,\"rgAccountIDs\":[335195824],\"totalFriends\":1},{\"appid\":1310330,\"rgAccountIDs\":[128992747],\"totalFriends\":1},{\"appid\":1245620,\"rgAccountIDs\":[189987196],\"totalFriends\":1},{\"appid\":1063730,\"rgAccountIDs\":[128992747],\"totalFriends\":1},{\"appid\":700330,\"rgAccountIDs\":[887503292],\"totalFriends\":1},{\"appid\":4000,\"rgAccountIDs\":[128992747],\"totalFriends\":1},{\"appid\":2357570,\"rgAccountIDs\":[224338257],\"totalFriends\":1},{\"appid\":2073850,\"rgAccountIDs\":[1228466611,849747714],\"totalFriends\":2},{\"appid\":578080,\"rgAccountIDs\":[370517280,925230276,427887150,962168624],\"totalFriends\":4},{\"appid\":374320,\"rgAccountIDs\":[280637154],\"totalFriends\":1},{\"appid\":534380,\"rgAccountIDs\":[1228466611],\"totalFriends\":1},{\"appid\":246620,\"rgAccountIDs\":[384359189],\"totalFriends\":1},{\"appid\":933480,\"rgAccountIDs\":[189987196],\"totalFriends\":1},{\"appid\":239140,\"rgAccountIDs\":[189987196],\"totalFriends\":1},{\"appid\":1151340,\"rgAccountIDs\":[189987196],\"totalFriends\":1},{\"appid\":1551360,\"rgAccountIDs\":[130977876],\"totalFriends\":1}],\"lastFetchTimeMS\":1710700141017}"
 		"CTextFilterStore_TextFilterPreferences"		"{\"eTextFilterSetting\":3,\"bIgnoreFriends\":true}"
 		"CTextFilterStore_TextFilterWords"		"{\"text_filter_custom_banned_words\":[],\"text_filter_custom_clean_words\":[]}"
 		"CTextFilterStore_strBannedPattern"		"\"\""
-		"CTextFilterStore_strCleanPattern"		"\"^(\\\\b(fak(ed|ers?|ing)|kompetenzteam|派送员|pinegrove|n\\\\.e\\\\.ig\\\\.e\\\\.|fukushima|snigger|nie gee|fukuoka|fuchsia|fuchian|cock\\\\.li|fuxius|fucuro|niego|niebo|neige|neggy|nebby|fuxis|cwfag|pubg|niby|nebu|nebo|fuku|fuki|fakt|g24|fcr|\\\\w*fvchvo\\\\w*)\\\\b)$\""
+		"CTextFilterStore_strCleanPattern"		"\"^(\\\\b(fak(ed|ers?|ing)|kompetenzteam|派送员|pinegrove|n\\\\.e\\\\.ig\\\\.e\\\\.|fukushima|snigger|nie gee|fukuoka|fuchsia|fuchian|cock\\\\.li|fuxius|fucuro|niego|niebo|neige|neggy|nebby|fuxis|cwfag|pubg|niby|nebu|nebo|fuku|fuki|fakt|g24|fcr|\\\\w*fvchvo\\\\w*fak(ed|ers?|ing)|kompetenzteam|派送员|pinegrove|n\\\\.e\\\\.ig\\\\.e\\\\.|fukushima|snigger|nie gee|fukuoka|fuchsia|fuchian|cock\\\\.li|fuxius|fucuro|niego|niebo|neige|neggy|nebby|fuxis|cwfag|pubg|niby|nebu|nebo|fuku|fuki|fakt|g24|fcr|\\\\w*fvchvo\\\\w*)\\\\b)$\""
 		"GetEquippedProfileItemsForUser76561198250819998"		"{\"profile_background\":{\"communityitemid\":\"25301643207\",\"image_large\":\"items/1323470/269a0d957aedd185cb26b4ffc25346df83d71971.jpg\",\"name\":\"ProfileMovie_GetsuClanEstate\",\"item_title\":\"Getsu Clan Estate\",\"item_description\":\"The cherry blossoms that bloom in the Getsu Clan Estate are exceptionally beautiful when illuminated by the moon.\",\"appid\":1323470,\"item_type\":14,\"item_class\":3,\"movie_webm\":\"items/1323470/fd3e310c6e35b855076dd4b27eebc03ca306a170.webm\",\"movie_mp4\":\"items/1323470/f8375b0f64db4dd56c6482c65cfcf4edd5d1c0e9.mp4\",\"movie_webm_small\":\"items/1323470/141add21d9f622e1ed079b7686ddcea88fa3b3b5.webm\",\"movie_mp4_small\":\"items/1323470/32f34dfebf87978625be4f9c3e544a8c94584499.mp4\",\"equipped_flags\":1,\"profile_colors\":[]},\"mini_profile_background\":{\"communityitemid\":\"29321477380\",\"image_large\":\"items/933820/7407ffa39feab4440afbda0513ed63394626a2a3.jpg\",\"name\":\"Remember The Fallen\",\"item_title\":\"Remember The Fallen\",\"item_description\":\"\",\"appid\":933820,\"item_type\":25,\"item_class\":13,\"movie_webm\":\"items/933820/ea89a1696499810296b6c25185352e9e258f8526.webm\",\"movie_mp4\":\"items/933820/c2ed532cfed4cbb3afd1bacc9b3c31481217b94d.mp4\",\"profile_colors\":[]},\"avatar_frame\":{\"communityitemid\":\"25302926986\",\"image_small\":\"items/1543030/ecb166335801740e25b2b4a7188f19d4230a264d.png\",\"image_large\":\"items/1543030/96b6e62cf306babac6c2c2af4b9bf9860c16aa3a.png\",\"name\":\"仙剑奇侠传七\",\"item_title\":\"Yue Qingshu Frame\",\"item_description\":\"\",\"appid\":1543030,\"item_type\":53,\"item_class\":14,\"profile_colors\":[]},\"animated_avatar\":{\"profile_colors\":[]},\"profile_modifier\":{\"profile_colors\":[]},\"steam_deck_keyboard_skin\":{\"profile_colors\":[]}}"
 		"ChatStorePopupState_290554270"		"{\"window_restore_details\":\"1&x=590&y=215&w=740&h=650&min=1\",\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
 		"OverlaySavedDataV2_292910_windows"		"{\"version\":2,\"data\":[[\"GameOverview\",1],[\"FriendsList\",1],[\"Achievements\",1]]}"
 		"OverlaySavedDataV2_292910_pinned"		"{\"version\":1,\"data\":[[\"Achievements\",{\"bPinned\":false,\"opacity\":1,\"extraData\":\"inprogress\"}]]}"
 		"OverlaySavedDataV2_292910_webrequests"		"{\"version\":1,\"data\":{\"activeWebPageRequestID\":1,\"rgRequests\":[{\"requestid\":1,\"strURL\":\"https://steamcommunity.com/sharedfiles/filedetails/?id=885382370\"}]}}"
-		"FriendStoreLocalPrefs_290554270"		"{\"ePersonaState\":7,\"strNonFriendsAllowedToMsg\":\"\"}"
+		"FriendStoreLocalPrefs_290554270"		"{\"ePersonaState\":1,\"strNonFriendsAllowedToMsg\":\"\"}"
 		"UIDisplayPrefs_290554270"		"{\"nChatRoomListHeightPx\":59,\"bChatRoomListCollapsed\":false,\"bDontShowVoiceAlert\":false,\"nFriendsListSingleWindowWidthPx\":300,\"bFavoritesHintDismissed\":false,\"bRemotePlayLinkHintDismissed\":false,\"nChangeLogDismissed\":0,\"rtLastAckedNewEmoticons\":1701181747}"
 		"OverlaySavedDataV2_381210_windows"		"{\"version\":2,\"data\":[[\"GameOverview\",1],[\"FriendsList\",1],[\"Browser\",0]]}"
 		"OverlaySavedDataV2_381210_pinned"		"{\"version\":1,\"data\":[[\"Achievements\",{\"bPinned\":false,\"opacity\":1,\"extraData\":\"inprogress\"}]]}"
@@ -2899,10 +2899,10 @@
 		"OverlaySavedDataV2_790060_windows"		"{\"version\":2,\"data\":[[\"GameOverview\",1],[\"FriendsList\",1],[\"Broadcast\",0]]}"
 		"OverlaySavedDataV2_790060_pinned"		"{\"version\":1,\"data\":[[\"Achievements\",{\"bPinned\":false,\"opacity\":1,\"extraData\":\"global\"}]]}"
 		"OverlaySavedDataV2_1293830_webrequests"		"{\"version\":1,\"data\":{\"activeWebPageRequestID\":0,\"rgRequests\":[]}}"
-		"OverlaySavedDataV2_1293830_windows"		"{\"version\":2,\"data\":[[\"GameOverview\",1],[\"FriendsList\",1],[\"Achievements\",1],[\"Browser\",0]]}"
+		"OverlaySavedDataV2_1293830_windows"		"{\"version\":2,\"data\":[[\"GameOverview\",1],[\"FriendsList\",1],[\"Achievements\",1]]}"
 		"OverlaySavedDataV2_1562700_windows"		"{\"version\":2,\"data\":[[\"GameOverview\",1],[\"FriendsList\",1]]}"
 		"OverlaySavedDataV2_1562700_pinned"		"{\"version\":1,\"data\":[[\"Achievements\",{\"bPinned\":false,\"opacity\":1,\"extraData\":\"global\"}]]}"
-		"OverlaySavedDataV2_1293830_pinned"		"{\"version\":1,\"data\":[[\"Achievements\",{\"bPinned\":false,\"opacity\":1,\"extraData\":\"global\"}]]}"
+		"OverlaySavedDataV2_1293830_pinned"		"{\"version\":1,\"data\":[[\"Achievements\",{\"bPinned\":false,\"opacity\":1,\"extraData\":\"inprogress\"}]]}"
 		"OverlaySavedDataV2_851100_windows"		"{\"version\":2,\"data\":[[\"GameOverview\",1],[\"FriendsList\",1],[\"Achievements\",1]]}"
 		"OverlaySavedDataV2_851100_pinned"		"{\"version\":1,\"data\":[[\"Achievements\",{\"bPinned\":false,\"opacity\":1,\"extraData\":\"global\"}]]}"
 		"Deck_ConfiguratorInterstitialsVersionSeen_IntroToSteamInputGames"		"1"
@@ -3517,7 +3517,7 @@
 				"google2.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1710357298"
+					"Expires"		"1710671430"
 				}
 				"level3.cdn.steampipe.steamcontent.com"
 				{
@@ -3527,7 +3527,12 @@
 				"steampipe.akamaized.net"
 				{
 					"token"		""
-					"Expires"		"1706898184"
+					"Expires"		"1710671428"
+				}
+				"edgenext.cdn.steampipe.steamcontent.com"
+				{
+					"token"		""
+					"Expires"		"1710671430"
 				}
 			}
 		}
@@ -4862,17 +4867,17 @@
 				"google2.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1706898184"
+					"Expires"		"1710671439"
 				}
 				"steampipe.akamaized.net"
 				{
 					"token"		""
-					"Expires"		"1705967607"
+					"Expires"		"1710671439"
 				}
 				"edgenext.cdn.steampipe.steamcontent.com"
 				{
 					"token"		""
-					"Expires"		"1710357298"
+					"Expires"		"1710671429"
 				}
 			}
 		}
@@ -5440,7 +5445,7 @@
 	"LibraryLowPerfMode"		"0"
 	"LibraryLowBandwidthMode"		"0"
 	"StartupState.Friends"		"0"
-	"RecentLocalPlayedGameIDs"		"2aa00d000000000023ddf5650b00000006be13000000000022c4f56500000000bcd5090000000000815ef565000000009cab080000000000d646f5657900000030b6050000000000a42cf46572fbb15a1ad10500000000000d04f3650000000058970600000000007066f065301c3f060e40070000000000e107eb65ffffffffd2ab040000000000007fe46500269f0c2e69040000000000c162e465da911100ccd805000000000043b2e065f6e31100b6820300000000001eb1d86500000000ece60e00000000001b7fd765290100006679070000000000197cd76500000000b401130000000000bc68d76560c8f55c8a8f13000000000059f3c46560857706809c01000000000058f3c465000000006c3b030000000000c39ebf65a0384c0602f80a0000000000c3c2b465300000002c0e0c0000000000e887b16500000000"
+	"RecentLocalPlayedGameIDs"		"06be130000000000134df765000000002aa00d000000000023ddf5650b000000bcd5090000000000815ef565000000009cab080000000000d646f5657900000030b6050000000000a42cf46572fbb15a1ad10500000000000d04f3650000000058970600000000007066f065301c3f060e40070000000000e107eb65ffffffffd2ab040000000000007fe46500269f0c2e69040000000000c162e465da911100ccd805000000000043b2e065f6e31100b6820300000000001eb1d86500000000ece60e00000000001b7fd765290100006679070000000000197cd76500000000b401130000000000bc68d76560c8f55c8a8f13000000000059f3c46560857706809c01000000000058f3c465000000006c3b030000000000c39ebf65a0384c0602f80a0000000000c3c2b465300000002c0e0c0000000000e887b16500000000"
 	"UserAppConfig"
 	{
 		"257350"		"00696e7465726e616c00016c616e677561676500656e676c697368000808"
